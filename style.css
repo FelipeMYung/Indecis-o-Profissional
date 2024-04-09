@@ -16,14 +16,12 @@ header {
 footer {
     width: 100%;
     height: 125px;
-    background-color: aqua;
+    background-color: grey;
 }
 main {
-    height: 500px;
-    width: 100%;
-    background-color: burlywood;
+    background-color:lightgray ;
 }
-header {
+nav {
     background-color: brown;
     width: 100%;
     height: 125px;
