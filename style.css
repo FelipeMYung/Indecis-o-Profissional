@@ -13,10 +13,14 @@ body {
     background-color: unset;
 
 }
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.237), rgba(0, 0, 0, 0.123), rgba(0, 0, 0, 0));
+}
 footer {
     width: 100%;
     height: 125px;
     background-color: unset;
+    
     
    
 }
@@ -43,12 +47,12 @@ nav {
 
 /* JS */
 .menu {
-    width: 350px;
-    height: 100%;
+    width: 100%;
+    height: 120px;
     background-color: #131111f5;
     position: fixed;
     top: 0;
-    left: -350px;
+    left: -1500px;
     transition: left 0.3s ease;
     position: absolute;
   }
@@ -59,13 +63,15 @@ nav {
     box-shadow: 4px 0px 5px 0px rgba(0,0,0,0.75);
   }
   ul li {
-    margin-top: 13.5%;
+    box-sizing: 33%;
+    margin-top: 2.5%;
     margin-bottom: 11.5%;
-    margin-left: 5%;
+    margin-left: 10%;
     list-style: none;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 15px;
+    display: inline;
   }
   #drawer{
     margin:15px;
@@ -88,12 +94,13 @@ nav {
     background-color: white;
   }
   #drawer2{
-    margin-left: 15%;
-    margin-top: 15%;
+    margin-top: 2.5%;
+    margin-left: 2%;
     height: 45px;
     width: 70px;
     border-radius: 5%;
     border-style: none;
     background-size: cover;
     -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75); -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75); box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
-  }
+    display: inline-block;
+}
