@@ -25,7 +25,6 @@ footer {
    
 }
 main {
-    display: flex;
     background-image: unset;
     margin-top: 4%;
     justify-content: center;
