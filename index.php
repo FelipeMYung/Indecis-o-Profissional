@@ -34,13 +34,13 @@
       <h1 class="display-1">Resumo do Projeto</h1>
       <p class="lead" class="text">nosso projeto é mt bom, Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi dolorum possimus amet debitis a consequuntur deserunt explicabo, cumque voluptates repudiandae. Repellat, adipisci? Perspiciatis nihil ipsa hic quia itaque! Aliquam, blanditiis.</p>
       <hr class="my-3">
-      <button type="button" class="btn btn-secondary btn-lg btn-block" >Vizualizar Artigo do Projeto</button>
+      <button type="button" class="btn-lg btn-block" class="bota">Vizualizar Artigo do Projeto</button>
     </div>
     <div class="mid" class="bg-transparent"  >
       <h1 class="display-1">Resumo do Teste</h1>
       <p class="lead" class="text">O que são testes de API? Os desenvolvedores fazem testes para saber se as APIs atendem às expectativas quanto a funcionalidade, desempenho, confiabilidade e segurança. A intenção é encontrar bugs e outros comportamentos inesperados para que os usuários não recebam um produto ruim ou perigoso.</p>
       <hr class="my-3">
-      <button type="button" class="btn btn-secondary btn-lg btn-block" >Vizualizar Teste</button>
+      <button type="button" class="btn-lg btn-block" class="bota" >Vizualizar Teste</button>
     </div>
     </main>
     
