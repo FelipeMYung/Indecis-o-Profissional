@@ -25,21 +25,22 @@
         </div>
     </header>
     <main id="Teste">
+      <div>
         <h1>Teste Vocacional:</h1>
         <h2 class="Pergunta">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quam, sit nemo? </h2>
-        <div id="respostas_teste">
-            <input type="radio" id="html" name="fav_language" value="HTML">
-            <label for="html">Opção 1</label><br>
-            <input type="radio" id="css" name="fav_language" value="CSS">
-            <label for="css">Opção 2</label><br>
-            <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-            <label for="javascript">Opção 3</label>
-            <input type="radio" id="css" name="fav_language" value="CSS">
-            <label for="css">Opção 4</label><br>
-            <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-            <label for="javascript">opção 5</label>
-            <button id="enviar">Enviar</button>
-        </div>
+      </div>
+<div class="Respostas">
+    <input type="radio" id="html" name="fav_language" value="HTML" lass="input">
+        <label for="html"  class="perguntas">Opção 1</label><br>
+    <input type="radio" id="css" name="fav_language" value="CSS" lass="input">
+        <label for="css"  class="perguntas">Opção 2</label><br>
+    <input type="radio" id="javascript" name="fav_language" value="JavaScript" lass="input">
+        <label for="javascript"  class="perguntas">Opção 3</label>
+    <input type="radio" id="css" name="fav_language" value="CSS" lass="input">
+        <label for="css"  class="perguntas">Opção 4</label><br>
+    <input type="radio" id="css" name="fav_language" value="CSS" class="input">
+        <label for="css"  class="perguntas">Opção 5</label><br>
+</div>
     </main>
     <script src="script.js"></script>
 </body>

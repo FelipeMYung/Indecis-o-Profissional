@@ -4,6 +4,7 @@
     }
 body {
     background-image: url(img/tela\ certa.jpg);
+    background-size: auto;
 }
 .logo{
     background-color: darkslategrey;
@@ -66,10 +67,11 @@ nav {
     margin-top: 2.5%;
     margin-bottom: 11.5%;
     margin-left: 10%;
+    padding-right: 7%;
     list-style: none;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 15px;
+    font-size: 25px;
     display: inline;
   }
   #drawer{
@@ -111,4 +113,8 @@ nav {
 #respostas_teste{
   display: flex;
   flex-direction: row;
+}
+.Respostas {
+  display: flex;
+  margin-top: 2%;
 }
