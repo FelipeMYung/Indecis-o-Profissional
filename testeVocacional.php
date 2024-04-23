@@ -27,17 +27,19 @@
     <main id="Teste">
         <h1>Teste Vocacional:</h1>
         <h2 class="Pergunta">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quam, sit nemo? </h2>
-        <input type="radio" id="html" name="fav_language" value="HTML">
-        <label for="html">Opção 1</label><br>
-        <input type="radio" id="css" name="fav_language" value="CSS">
-        <label for="css">Opção 2</label><br>
-        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-        <label for="javascript">Opção 3</label>
-        <input type="radio" id="css" name="fav_language" value="CSS">
-        <label for="css">Opção 4</label><br>
-        <input type="radio" id="javascript" name="fav_language" value="JavaScript">
-        <label for="javascript">opção 5</label>
-        
+        <div id="respostas_teste">
+            <input type="radio" id="html" name="fav_language" value="HTML">
+            <label for="html">Opção 1</label><br>
+            <input type="radio" id="css" name="fav_language" value="CSS">
+            <label for="css">Opção 2</label><br>
+            <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+            <label for="javascript">Opção 3</label>
+            <input type="radio" id="css" name="fav_language" value="CSS">
+            <label for="css">Opção 4</label><br>
+            <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+            <label for="javascript">opção 5</label>
+            <button id="enviar">Enviar</button>
+        </div>
     </main>
     <script src="script.js"></script>
 </body>
