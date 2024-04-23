@@ -4,6 +4,7 @@
     }
 body {
     background-image: url(img/tela\ certa.jpg);
+    background-size: auto;
 }
 .logo{
     background-color: darkslategrey;
