@@ -22,6 +22,19 @@
         <a href="artigo.pdf"><li>Artigo de Opinião</li></a>
       </ul>
     </div>
+    <footer>
+      <p>Feito por:</p>
+      <div>
+        <p>Felipe Martins Yung</p>
+        <p>Gabriel de Souza Zeferino</p>
+        <p>Roberto Moura Leitão</p>
+      </div>
+      <div>
+        <img src="#" alt="">
+        <img src="#" alt="">
+        <img src="#" alt="">
+      </div>
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>
