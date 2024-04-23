@@ -24,7 +24,7 @@
         <ul>
         <a href="index.php"><li>Pagina inicial</li></a>
         <a href="testeVocacional.php"><li>Teste Vocacional</li></a>
-        <a href="index.php"><li>Artigo de Opinião.</li></a>
+        <a href="artigo.pdf"><li>Artigo de Opinião.</li></a>
       </ul>
     </div>
  
