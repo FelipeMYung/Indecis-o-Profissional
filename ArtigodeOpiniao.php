@@ -7,21 +7,27 @@
     <title>Document</title>
 </head>
 <body>
-    <button id="drawer">
-      <div class="iconmenu"></div>
-      <div class="iconmenu"></div>
-      <div class="iconmenu"></div>
-    </button>
-    <div class="menu">
-        <button id="drawer2">
-          VOLTAR
-        </button>
-        <ul>
-        <a href="index.php"><li>Pagina inicial</li></a>
-        <a href="testeVocacional.php"><li>Teste Vocacional</li></a>
-        <a href="artigo.pdf"><li>Artigo de Opinião</li></a>
-      </ul>
-    </div>
+    <header>
+      <button id="drawer">
+        <div class="iconmenu"></div>
+        <div class="iconmenu"></div>
+        <div class="iconmenu"></div>
+      </button>
+      <div class="menu">
+          <button id="drawer2">
+            VOLTAR
+          </button>
+          <ul>
+          <a href="index.php"><li>Pagina inicial</li></a>
+          <a href="testeVocacional.php"><li>Teste Vocacional</li></a>
+          <a href="artigo.pdf"><li>Artigo de Opinião</li></a>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <div></div>
+      
+    </main>
     <footer>
       <p>Feito por:</p>
       <div>

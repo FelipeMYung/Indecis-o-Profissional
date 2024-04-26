@@ -48,13 +48,14 @@
       <p>Feito por:</p>
       <div>
         <p>Felipe Martins Yung</p>
+        <img  src="/img/25231.png" alt="">
         <p>Gabriel de Souza Zeferino</p>
+        <img src="/img/25231.png" alt="">
         <p>Roberto Moura Leitão</p>
+        <img src="/img/25231.png" alt="">
       </div>
       <div>
-        <img src="#" alt="">
-        <img src="#" alt="">
-        <img src="#" alt="">
+
       </div>
     </footer>
 </body>
